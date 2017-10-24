@@ -27,8 +27,9 @@ nav {
 
 section {
   background: #ebebeb;
-  padding: 20px;
+  padding: 30px;
   margin: 10px;
+  margin-bottom: 20px;
   float: left;
   width: 495px; 
 }
@@ -36,21 +37,19 @@ section {
 article {
   background: #777;
   padding: 20px;
-  width: 100%;
   margin-top: 30px;
-  left: 5px;
   color: #ebebeb;
 } 
 
 #headers {
   background: #ebebeb;
-  text-align: center;
   position: relative;
   margin: 10px;
   padding: 20px;
   width: 100%;
   color: #777;
   left: -10px;
+  top: 10px;
 }
 
 #paragraph {
@@ -61,16 +60,16 @@ article {
   color: #777;
   width: 100%;
   left: -10px;
+  top: 10px;
 }
 
 aside {
   margin: 10px;
-  margin-bottom: 20px;
   padding: 30px;
   background: #ebebeb;
   float: right;
   width: 423px;
-  height: 304px;
+  height: 323px;
 }
 
 footer {
